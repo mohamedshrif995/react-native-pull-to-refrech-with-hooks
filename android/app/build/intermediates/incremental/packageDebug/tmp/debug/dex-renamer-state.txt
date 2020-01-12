@@ -1,0 +1,4 @@
+#Mon Dec 30 00:12:52 EET 2019
+base.0=/Users/msherif/Documents/projects/hopeitwork/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
